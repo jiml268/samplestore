@@ -1,0 +1,32 @@
+.searchBar{display: flex;
+    background-color: white;
+    margin: 0 6px;
+}
+
+.svgimage{
+    width: 15px;
+    height: 15px;
+    background-color: white;
+    margin-left: 5px;
+}
+
+.searchBox{
+    width: 275px;
+    padding: 10px;
+}
+
+.searchForm{
+    display: flex;
+
+}
+
+.seachButton{
+    height: 39px;
+    background-color: white;
+    border: none;
+}
+
+
+.seachButton:hover {
+        transform: scale(1.5)
+}

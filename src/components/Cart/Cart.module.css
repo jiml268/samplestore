@@ -1,0 +1,17 @@
+.svgimage {
+    width: 15px;
+    height: 15px;
+}
+.cartText{
+    margin-left: 5px;
+}
+.cartButton{
+    padding: 10px;
+        border: none;
+            background-color: white;
+            height: 30px;
+}
+
+.cartButton:hover {
+transform: scale(1.5)
+}

@@ -1,0 +1,22 @@
+.logoImage{
+    height: 60px;
+    width: 60px;
+    margin-right: 5px;
+}
+
+.logoButton{
+    display: flex;
+    align-items: center;
+    border: none;
+    background: white;
+}
+
+.link{
+    text-decoration: none;
+    border: none;
+        background: white;
+}
+
+.link:hover {
+    transform: scale(.75)
+}
